@@ -1,6 +1,8 @@
 package assignment;
 
 public class AmstrongNumberCheckFor_NDigits {
+	
+	//testing
 
 	public static void main(String[] args) {
 		
