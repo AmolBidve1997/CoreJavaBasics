@@ -118,7 +118,7 @@ public class StringMethods {
 		System.out.println(arr2[0]);
 		System.out.println(arr2[1]);
 		
-		//Example4
+		//Example4														
 		s="abc 123";
 		String arr[]= s.split(" ");
 		System.out.println(Arrays.toString(arr));

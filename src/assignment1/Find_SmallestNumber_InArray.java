@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 public class Find_SmallestNumber_InArray {
 

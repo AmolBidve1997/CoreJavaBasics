@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 public class Assignment8_AmstorngNumber {
 

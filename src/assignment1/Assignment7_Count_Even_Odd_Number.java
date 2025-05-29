@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 public class Assignment7_Count_Even_Odd_Number {
 

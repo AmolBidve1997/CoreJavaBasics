@@ -1,4 +1,4 @@
-package assignment;
+package assignment1;
 
 public class Sorting_Elements_UsingForLoop_INArray {
 
