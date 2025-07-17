@@ -8,11 +8,11 @@ public class Find_LargestNumber_InArray {
 
 		int largest =a[0];
 
-		for(int x:a) {
+		for(int i=1;i<a.length;i++) {
 
-			if(x>largest) 
+			if(a[i]>largest) 
 			{
-				largest=x;
+				largest=a[i];
 			}
 
 		}

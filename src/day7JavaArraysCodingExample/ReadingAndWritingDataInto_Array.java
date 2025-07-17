@@ -22,7 +22,7 @@ public class ReadingAndWritingDataInto_Array {
 		System.out.println("Printing array element");
 		
 		System.out.println(Arrays.toString(a));
-
+		
 	}
 
 }

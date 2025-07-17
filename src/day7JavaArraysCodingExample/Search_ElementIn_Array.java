@@ -12,7 +12,7 @@ public class Search_ElementIn_Array {
 
 			if(a[i]==search_element)
 			{
-				System.out.println("Element is found "+a[i]);
+				System.out.println("Element is found at index "+ i + " " +a[i]);
 				status=true;
 				break;
 			}
